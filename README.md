@@ -11,7 +11,6 @@
 - Symfony
 - PHP
 - JS
-- REACT
 
 ## My Projects :computer_mouse:
 
