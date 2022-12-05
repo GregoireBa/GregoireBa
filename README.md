@@ -22,10 +22,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoireBa&repo=Projet1-OC&theme=dark" />
 </a>
 
-<a href="https://github.com/GregoireBa/Projet2-OC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoireBa&repo=Projet2-OC&theme=dark" />
-</a>
-
 <a href="https://github.com/GregoireBa/Pokenoki">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoireBa&repo=Pokenoki&theme=dark" />
 </a>
