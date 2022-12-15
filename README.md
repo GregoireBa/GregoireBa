@@ -5,7 +5,7 @@
 
 :computer: Full stack dev
 
-## My Tech :keyboard:
+## My stack :keyboard:
 
 - Angular
 - Symfony
