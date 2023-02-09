@@ -11,6 +11,9 @@
 - Symfony
 - PHP
 - JS
+- Laravel
+- React
+- VueJs
 
 ## My Projects :computer_mouse:
 
