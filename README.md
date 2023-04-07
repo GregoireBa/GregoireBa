@@ -3,7 +3,7 @@
 :man_student: I am currently on a work-study contract with the O'clock school :school:, until february 2024. <br>
 :office_worker: I am looking for a company to do my apprenticeship.
 
-:computer: Full stack dev
+:computer: Front end dev
 
 ## My stack :keyboard:
 
