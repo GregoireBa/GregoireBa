@@ -1,6 +1,6 @@
 ### Développeur Front-End en quête de progression constante
 
-:mag: Je suis à la recherche d'une alternance pour ma formation. :mag:
+:mag: Je suis à la recherche d'une alternance pour ma formation.
 
 ## Compétences techniques :keyboard:
 
