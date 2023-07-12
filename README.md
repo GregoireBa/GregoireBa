@@ -2,14 +2,14 @@
 
 :mag: Je suis à la recherche d'une alternance pour ma formation.
 
-## Compétences techniques :keyboard:
+### Compétences techniques :keyboard:
 
 - Langages : HTML, CSS, JavaScript
 - Frameworks : Angular, Symfony (Twig), React
 - Outils : Git, Github, Figma, Photoshop
 - Autres : Responsive Design, UX/UI
 
-## Mes projets :computer_mouse:
+### Mes projets :computer_mouse:
 
 <a href="https://github.com/GregoireBa/unicornFactory">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoireBa&repo=unicornFactory&theme=dark" />
