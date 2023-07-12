@@ -1,4 +1,4 @@
-### Développeur Front-End en quête de progression constante
+### Développeur Front-End
 
 :mag: Je suis à la recherche d'une alternance pour ma formation.
 
