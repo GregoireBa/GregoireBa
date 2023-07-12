@@ -1,4 +1,4 @@
-### Développeur Front-End
+## Développeur Front-End
 
 :mag: Je suis à la recherche d'une alternance pour ma formation.
 
