@@ -11,7 +11,6 @@
 - Symfony
 - PHP
 - JS
-- Laravel
 - React
 - VueJs
 
