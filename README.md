@@ -1,19 +1,15 @@
-### Hi everyone 👋 I'm Grégoire 
- <br>
-:office_worker: I am looking for a company to do my apprenticeship.
+### Développeur Front-End en quête de progression constante
 
-:computer: Front end dev
+:office_worker: Je suis à la recherche d'une alternance pour ma formation.
 
-## My stack :keyboard:
+## Compétences techniques :keyboard:
 
-- Angular
-- Symfony
-- PHP
-- JS
-- React
-- VueJs
+- Langages : HTML, CSS, JavaScript
+- Frameworks : Angular, Symfony (Twig), React
+- Outils : Git, Github, Figma, Photoshop
+- Autres : Responsive Design, UX/UI
 
-## My Projects :computer_mouse:
+## Mes projets :computer_mouse:
 
 <a href="https://github.com/GregoireBa/unicornFactory">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GregoireBa&repo=unicornFactory&theme=dark" />
