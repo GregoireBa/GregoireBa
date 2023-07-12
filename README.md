@@ -1,6 +1,5 @@
 ### Hi everyone 👋 I'm Grégoire 
-
-:man_student: I am currently on a work-study contract with the O'clock school :school:, until february 2024. <br>
+ <br>
 :office_worker: I am looking for a company to do my apprenticeship.
 
 :computer: Front end dev
