@@ -1,6 +1,6 @@
 ## Développeur Front-End
 
-:mag: Je suis à la recherche d'une alternance pour suivre ma formation de développeur web !
+:mag: À l'écoute d'opportunités
 
 ### Compétences techniques :keyboard:
 
